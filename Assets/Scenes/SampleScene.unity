@@ -1076,7 +1076,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: Speed
-      value: 1.5
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: player
@@ -1145,7 +1145,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: Speed
-      value: 2
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: player
@@ -1335,7 +1335,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: Speed
-      value: 2.5
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: player
@@ -1404,7 +1404,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: Speed
-      value: 1
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: player
@@ -1876,6 +1876,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
+      propertyPath: Speed
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 5695217773697186513, guid: 8f277af05b3fbea46bb8acdafcd27e4e, type: 3}
       propertyPath: player
       value: 
