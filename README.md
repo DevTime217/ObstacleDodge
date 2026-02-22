@@ -1,3 +1,3 @@
 # ObstacleDodge
 
-Unity project creating an obstacle course game. Work in progress.
+Unity project creating an obstacle course game.
